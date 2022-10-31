@@ -1,0 +1,93 @@
+D:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.exe
+D:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.deps.json
+D:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.runtimeconfig.json
+D:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.dll
+D:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.pdb
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.AssemblyReference.cache
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form1.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form2.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form3.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form4.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form5.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form6.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form7.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.Properties.Resources.resources
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.GenerateResource.cache
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfoInputs.cache
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfo.cs
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.CoreCompileInputs.cache
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.dll
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\refint\Шашки.dll
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.pdb
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.genruntimeconfig.cache
+D:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\ref\Шашки.dll
+K:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.exe
+K:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.deps.json
+K:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.runtimeconfig.json
+K:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.dll
+K:\Rabochiy\Rabochiy\bin\Debug\net6.0-windows\Шашки.pdb
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.AssemblyReference.cache
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form1.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form2.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form3.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form4.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form5.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form6.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form7.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.Properties.Resources.resources
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.GenerateResource.cache
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.GeneratedMSBuildEditorConfig.editorconfig
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfoInputs.cache
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfo.cs
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.CoreCompileInputs.cache
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.dll
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\refint\Шашки.dll
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.pdb
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\Шашки.genruntimeconfig.cache
+K:\Rabochiy\Rabochiy\obj\Debug\net6.0-windows\ref\Шашки.dll
+K:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.exe
+K:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.deps.json
+K:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.runtimeconfig.json
+K:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.dll
+K:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.pdb
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.AssemblyReference.cache
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form1.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form2.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form3.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form4.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form5.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form6.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form7.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.Properties.Resources.resources
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.GenerateResource.cache
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.GeneratedMSBuildEditorConfig.editorconfig
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfoInputs.cache
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfo.cs
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.CoreCompileInputs.cache
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.dll
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\refint\Шашки.dll
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.pdb
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.genruntimeconfig.cache
+K:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\ref\Шашки.dll
+D:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.exe
+D:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.deps.json
+D:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.runtimeconfig.json
+D:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.dll
+D:\Rabochiy — 2\Rabochiy\bin\Debug\net6.0-windows\Шашки.pdb
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.AssemblyReference.cache
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form1.resources
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Rabochiy.Form2.resources
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.Properties.Resources.resources
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.GenerateResource.cache
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfoInputs.cache
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.AssemblyInfo.cs
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.csproj.CoreCompileInputs.cache
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.dll
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\refint\Шашки.dll
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.pdb
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.genruntimeconfig.cache
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\ref\Шашки.dll
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.Form3.resources
+D:\Rabochiy — 2\Rabochiy\obj\Debug\net6.0-windows\Шашки.Form4.resources
