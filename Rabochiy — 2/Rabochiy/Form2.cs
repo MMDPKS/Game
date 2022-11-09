@@ -245,27 +245,6 @@ namespace Rabochiy
                         break;
                 }
             }
-
-
-            public bool DeterminePath(int IcurrFigure, int j)
-            {
-                if (map[IcurrFigure, j] == 0)
-                {
-                    buttons[IcurrFigure, j].BackColor = Color.Yellow;
-                    buttons[IcurrFigure, j].Enabled = true;
-                }
-                else
-                {
-                    if (map[IcurrFigure, j] != 2)
-                    {
-                        buttons[IcurrFigure, j].BackColor = Color.Yellow;
-                        buttons[IcurrFigure, j].Enabled = true;
-                    }
-                    return false;
-                }
-                return true;
-            }
-
             public void CloseSteps()
             {
                 for (int i = 0; i < mapSize; i++)
